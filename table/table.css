@@ -1,0 +1,27 @@
+/* Style the table */
+table {
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+table,
+th,
+td {
+    padding: 20px;
+    border: 1px solid black;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+/* Style the images in the nested list */
+img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #813f3f;
+    margin-top: 5px;
+}
